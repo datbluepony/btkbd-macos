@@ -1,0 +1,6 @@
+build/
+fw/
+*.o
+bond.txt
+*.log
+.DS_Store
